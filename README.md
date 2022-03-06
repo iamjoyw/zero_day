@@ -1,1 +1,1 @@
-zero_day readme
+create and setup your git and github
